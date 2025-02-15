@@ -6,7 +6,7 @@
 # Magnetic concepts
 - Permeance (the flux "conductivity") - high for permeable materials such as electrical metal (iron with silicon), ferrite.
 - Reluctance (the "flux "resistivity") - low permeability materials have higher reluctance. Air gap create a lot of relunctance in a magnetic circuit.
-- 
+- Back EMF and Torque are related (if you know one, you can compute the other)
 
 # Number of Magnet Poles
 - More magnet poles means more torque for the same applied current.
